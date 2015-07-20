@@ -8,3 +8,4 @@ http://amphibiaweb.org:8000/taxonomy/amphibia_familytree_sum_v3.png
 
 Monthly archives are stored in this repository.
 
+ - CC-BY: Attribution
