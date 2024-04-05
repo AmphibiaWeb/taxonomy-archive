@@ -8,7 +8,7 @@ https://amphibiaweb.org/taxonomy/AW_FamilyPhylogeny.html
 
 Please use these data! If you do we ask that you cite us in some fashion. Suggested citation:
 
-_AmphibiaWeb. 2022. Taxonomy Checklist (<https://amphibiaweb.org>) University of California, Berkeley, CA, USA. Accessed {date of access}._
+_AmphibiaWeb. 2022. Monthly Snapshot of the Taxonomy Checklist (<https://amphibiaweb.org>) University of California, Berkeley, CA, USA. Accessed {date of access}._
 
 
 Please contact amphibiaweb@berkeley.edu with any comments or questions.
